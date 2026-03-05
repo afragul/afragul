@@ -36,7 +36,7 @@ Backend system designed for secure and reliable file uploads with validation and
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,fastapi,nodejs,git,github"/>
 </p>
-
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -48,8 +48,7 @@ Backend system designed for secure and reliable file uploads with validation and
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afragul&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
+-->
 
 ## 🔥 Activity
 
@@ -57,14 +56,15 @@ Backend system designed for secure and reliable file uploads with validation and
 <img src="https://streak-stats.demolab.com?user=afragul&theme=tokyonight"/>
 </p>
 
+<!--
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/afragul/afragul/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
-
+-->
 ⭐ Always building and experimenting with AI systems.
