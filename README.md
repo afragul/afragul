@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Afragül 👋</h1>
 
-<!--
-**afragul/afragul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+AI Systems • Generative AI • Deep Learning
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+I build intelligent systems where machine learning meets real software.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ About Me
+
+- 🤖 Interested in **Generative AI**
+- 🧠 Working with **Deep Learning models**
+- ⚙️ Building **AI-powered backend systems**
+- 🚀 Exploring **LLM applications & RAG systems**
+
+---
+
+## 🧠 Projects
+
+**AI Route Assistant**
+
+AI-powered route assistant that generates personalized routes using semantic similarity and retrieval-based generation.
+
+**File Upload System**
+
+Backend system designed for secure and reliable file uploads with validation and error handling.
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,fastapi,nodejs,git,github"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=afragul&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afragul&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Activity
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=afragul&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+⭐ Always building and experimenting with AI systems.
