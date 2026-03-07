@@ -34,7 +34,7 @@ Backend system designed for secure and reliable file uploads with validation and
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,fastapi,nodejs,git,github"/>
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,git,github"/>
 </p>
 
 <!--
