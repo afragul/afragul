@@ -37,7 +37,7 @@ Backend system designed for secure and reliable file uploads with validation and
 <img src="https://skillicons.dev/icons?i=python,java,fastapi,git,github"/>
 </p>
 
-<!--
+
 ---
 
 ## 📊 GitHub Stats
@@ -49,7 +49,6 @@ Backend system designed for secure and reliable file uploads with validation and
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afragul&layout=compact&theme=tokyonight"/>
 
 </p>
--->
 
 ## 🔥 Activity
 
