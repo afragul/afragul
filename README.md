@@ -56,7 +56,7 @@ Backend system designed for secure and reliable file uploads with validation and
 <img src="https://streak-stats.demolab.com?user=afragul&theme=tokyonight"/>
 </p>
 
-<!--
+
 ---
 
 ## 🐍 Contribution Snake
@@ -66,5 +66,5 @@ Backend system designed for secure and reliable file uploads with validation and
 </p>
 
 ---
--->
+
 ⭐ Always building and experimenting with AI systems.
