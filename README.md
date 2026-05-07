@@ -39,7 +39,7 @@ Backend system designed for secure and reliable file uploads with validation and
 
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -49,14 +49,14 @@ Backend system designed for secure and reliable file uploads with validation and
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afragul&layout=compact&theme=tokyonight"/>
 
 </p>
-
+-->
 ## 🔥 Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=afragul&theme=tokyonight"/>
 </p>
 
-
+<!--
 ---
 
 ## 🐍 Contribution Snake
@@ -66,5 +66,5 @@ Backend system designed for secure and reliable file uploads with validation and
 </p>
 
 ---
-
+-->
 ⭐ Always building and experimenting with AI systems.
